@@ -6,4 +6,4 @@ git log --> visualiza el historial de commits
 git reset -- hard numero del commit --> regrasa a una version anterior del commit
 git remote -v
 git push origin master
- 
+git es para versionar tus archivos 
